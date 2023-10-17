@@ -1,5 +1,5 @@
 homepage: "https://www.magfiads.com"
 documentation: "https://www.magfiads.com"
 versions:
-  - sha: fa9ea35d13075053fa371b3408765801ad47264a
+  - sha: 16ea7667f2264c8d712c0c206de6886a3926b00a
     changeNotes: initial released 
